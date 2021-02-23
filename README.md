@@ -5,6 +5,9 @@ Here are some Good ideas:
 
 - 🔭 I’m currently working on ...
 
+### 🍕 some facts:</b>
+
+- a **full-stack developer** </br>
 
 ### 🍕 tech I have worked with
 
