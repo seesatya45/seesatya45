@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+Here are some Good ideas:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
