@@ -27,6 +27,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=ashishkumar90052&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+Without big data, you are blind and deaf and in the middle of a freeway.
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 - 🌱 I’m currently learning ...
